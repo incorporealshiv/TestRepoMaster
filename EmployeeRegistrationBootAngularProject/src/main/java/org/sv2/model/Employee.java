@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 import lombok.Data;
-//this is entity class
+//this is entity class one
 
 @Data
 @Entity
